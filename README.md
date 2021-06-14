@@ -1,5 +1,4 @@
-### <span style="color:#ff79c6;">Hi there, I'm Zeljko Marinkovic</span> 👋
-
+### Hi there, I'm Zeljko Marinkovic 👋
 <!-- ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeljkomarinkovic&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
