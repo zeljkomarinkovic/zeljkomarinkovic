@@ -2,7 +2,7 @@
 
 ---
 
-[![Mine wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeljkomarinkovic)](https://github.com/anuraghazra/github-readme-stats)
+[![Zeljko's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeljkomarinkovic)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
