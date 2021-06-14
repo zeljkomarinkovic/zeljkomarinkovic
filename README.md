@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Mine GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=zeljkomarinkovic&show_icons=true&hide_border=true" />
+<img align="left" alt="Mine GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zeljkomarinkovic&show_icons=true&hide_border=true" />
 
