@@ -1,5 +1,10 @@
 ### Hi there, I'm Zeljko Marinkovic 👋
 
+---
+
+[![Mine wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeljkomarinkovic)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **zeljkomarinkovic/zeljkomarinkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
