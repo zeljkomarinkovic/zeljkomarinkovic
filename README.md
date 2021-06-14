@@ -1,4 +1,4 @@
-### Hi there, I'm Zeljko Marinkovic 👋
+### <span style="color:#ff79c6;">Hi there, I'm Zeljko Marinkovic</span> 👋
 
 <!-- ---
 
