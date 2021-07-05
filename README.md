@@ -1,4 +1,7 @@
 ### Hi there, I'm Zeljko Marinkovic 👋
+
+![](https://komarev.com/ghpvc/?username=zeljkomarinkovic&color=E06488&label=Profile+views)
+
 <!-- ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeljkomarinkovic&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,10 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
-
-### Glad to see you there 
-![](https://komarev.com/ghpvc/?username=zeljkomarinkovic&color=E06488&label=Profile+views)
+ 
 
 
 
