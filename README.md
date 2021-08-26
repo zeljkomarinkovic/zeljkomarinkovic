@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=zeljkomarinkovic&color=E06488&label=Profile+views)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeljkomarinkovic&layout=compact)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeljkomarinkovic&layout=compact) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeljkomarinkovic&theme=dracula&hide_border=true&show_icons=true)]
 <!-- ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeljkomarinkovic&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
