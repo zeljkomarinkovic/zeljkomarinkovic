@@ -1,9 +1,10 @@
 ### Hi there, I'm Zeljko Marinkovic 👋
 
 ![](https://komarev.com/ghpvc/?username=zeljkomarinkovic&color=E06488&label=Profile+views)
-
+[![Linkedin: zeljkomarinkovic](https://img.shields.io/badge/-zeljkomarinkovic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeljkomarinkovic/)](https://www.linkedin.com/in/zeljkomarinkovic/)
+[![Code Wars](https://www.codewars.com/users/zeljkomarinkovic/badges/micro)](https://www.codewars.com/users/zeljkomarinkovic)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeljkomarinkovic&layout=compact) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeljkomarinkovic&theme=dracula&hide_border=true&show_icons=true)]
+
 <!-- ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeljkomarinkovic&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
