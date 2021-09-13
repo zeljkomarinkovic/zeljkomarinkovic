@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Mine GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zeljkomarinkovic&theme=dracula&show_icons=true&hide_border=true" />
 
+
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zeljkomarinkovic&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
